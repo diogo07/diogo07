@@ -7,14 +7,36 @@
 
 ## ⚡Linguagens de Programação
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
-![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-C0C0C0?style=plastic&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-C0C0C0?style=plastic&logo=Python)
+![Java](https://img.shields.io/badge/-Java-C0C0C0?style=flat&logo=Java&logoColor=FFA518)
+![PHP](https://img.shields.io/badge/PHP-C0C0C0?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-C0C0C0?style=flat&logo=dart&logoColor=1075C2)
 
 ## ⚡Frameworks
 
-![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+## Frontend
+
+![React](https://img.shields.io/badge/-React-C0C0C0?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue.js-C0C0C0?style=flat&logo=vue.js&logoColor=41B883)
+
+## Backend
+
+![Spring Boot](https://img.shields.io/badge/spring%20boot-C0C0C0.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-C0C0C0?style=plastic&logo=Django)
+![Laravel](https://img.shields.io/badge/-Laravel-C0C0C0?style=flat&logo=laravel&logoColor=FF2D20)
+
+
+## Mobile
+
+![Flutter](https://img.shields.io/badge/-Flutter-C0C0C0?style=flat&logo=flutter&logoColor=02569B)
+
+## Banco de Dados
+
+![MySQL](https://img.shields.io/badge/-MySQL-C0C0C0?style=flat&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-C0C0C0?style=flat&logo=postgresql&logoColor=336791)
+![Firebase](https://img.shields.io/badge/-Firebase-C0C0C0?style=flat&logo=firebase&logoColor=FFCA28)
 
 
 <p align="center">
