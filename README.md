@@ -3,12 +3,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogo07" alt="diogo07" /> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo07&layout=compact)](https://github.com/diogo07/diogo07)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diogo07s&count_private=true&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diogo07&count_private=true&show_icons=true)
 
 ## ⚡Linguagens de Programação
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-C0C0C0?style=plastic&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-C0C0C0?style=plastic&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-C0C0C0?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-C0C0C0?style=flat&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-C0C0C0?style=flat&logo=Java&logoColor=FFA518)
 ![PHP](https://img.shields.io/badge/PHP-C0C0C0?style=flat-square&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-C0C0C0?style=flat&logo=dart&logoColor=1075C2)
@@ -23,8 +23,8 @@
 
 ## Backend
 
-![Spring Boot](https://img.shields.io/badge/spring%20boot-C0C0C0.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-C0C0C0?style=plastic&logo=Django)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-C0C0C0.svg?style=flat&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-C0C0C0?style=flat&logo=Django)
 ![Laravel](https://img.shields.io/badge/-Laravel-C0C0C0?style=flat&logo=laravel&logoColor=FF2D20)
 
 
