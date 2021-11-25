@@ -32,7 +32,7 @@
 
 ![Flutter](https://img.shields.io/badge/-Flutter-404040?style=flat&logo=flutter&logoColor=02569B)
 
-## Banco de Dados
+## ⚡Bancos de Dados
 
 ![MySQL](https://img.shields.io/badge/-MySQL-404040?style=flat&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-404040?style=flat&logo=postgresql&logoColor=336791)
@@ -41,5 +41,5 @@
 
 <p align="center">
 <a href="https://br.linkedin.com/in/diogo-sousa-47164493?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diogo-sousa" height="30" width="30" /></a>
-<a href="https://instagram.com/diogo_sousa.js" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="diogo_sousa.js" height="30" width="30" /></a>
+
 </p>
