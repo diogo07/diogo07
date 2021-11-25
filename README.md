@@ -16,19 +16,19 @@
 ## 🛠️Frameworks
 
 
-## 👉Frontend
+## Frontend
 
 ![React](https://img.shields.io/badge/-React-404040?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue.js-404040?style=flat&logo=vue.js&logoColor=41B883)
 
-## 👉Backend
+## Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-404040.svg?style=flat&logo=springboot&logoColor=6DB33F)
 ![Django](https://img.shields.io/badge/-Django-404040?style=flat&logo=Django)
 ![Laravel](https://img.shields.io/badge/-Laravel-404040?style=flat&logo=laravel&logoColor=FF2D20)
 
 
-## 👉Mobile
+## Mobile
 
 ![Flutter](https://img.shields.io/badge/-Flutter-404040?style=flat&logo=flutter&logoColor=02569B)
 
