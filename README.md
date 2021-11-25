@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-404040?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-404040?style=flat&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-404040?style=flat&logo=Java&logoColor=FFA518)
-![PHP](https://img.shields.io/badge/PHP-404040?style=flat-square&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-404040?style=flat-square&logo=php&logoColor=777BB3)
 ![Dart](https://img.shields.io/badge/-Dart-404040?style=flat&logo=dart&logoColor=1075C2)
 
 ## ⚡Frameworks
@@ -23,7 +23,7 @@
 
 ## Backend
 
-![Spring Boot](https://img.shields.io/badge/spring%20boot-404040.svg?style=flat&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-404040.svg?style=flat&logo=springboot&logoColor=6DB33F)
 ![Django](https://img.shields.io/badge/-Django-404040?style=flat&logo=Django)
 ![Laravel](https://img.shields.io/badge/-Laravel-404040?style=flat&logo=laravel&logoColor=FF2D20)
 
