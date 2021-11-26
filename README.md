@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Diogo</h1>
+<h1 align="center">Olá 👋, eu sou Diogo!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diogo07" alt="diogo07" /> </p>
 
