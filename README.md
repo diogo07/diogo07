@@ -41,5 +41,4 @@
 
 <p align="center">
 <a href="https://br.linkedin.com/in/diogo-sousa-47164493?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diogo-sousa" height="30" width="30" /></a>
-
 </p>
