@@ -36,7 +36,6 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-404040?style=flat&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-404040?style=flat&logo=postgresql&logoColor=336791)
-![Firebase](https://img.shields.io/badge/-Firebase-404040?style=flat&logo=firebase&logoColor=FFCA28)
 
 
 <p align="center">
