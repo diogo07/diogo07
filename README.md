@@ -20,6 +20,7 @@
 
 ![React](https://img.shields.io/badge/-React-404040?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue.js-404040?style=flat&logo=vue.js&logoColor=41B883)
+![Angular](https://img.shields.io/badge/Angular-404040?style=flat&logo=angular&logoColor=CC2A2A)
 
 ## Backend
 
